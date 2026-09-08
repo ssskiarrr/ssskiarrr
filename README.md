@@ -140,3 +140,59 @@ select
 from operations
 group by customer_id
 having count(*) > 5;
+
+## 🚀 Projects
+
+### 🛠 Support Engineer Lab
+
+> Учебный проект для практики базовых задач Trainee / Junior Support Engineer.
+
+| Area | Practice |
+|---|---|
+| 🐧 Linux | базовая диагностика системы и сети |
+| 📄 Logs | поиск `ERROR`, `WARN`, `5xx`, `timeout`, `request_id` |
+| 🌐 HTTP / API | диагностика REST API и HTTP status codes |
+| 🗄 SQL | запросы для проверки и диагностики данных |
+| 📊 Monitoring | Prometheus alerts и метрики |
+| 🚨 Incidents | Incident Runbook |
+| 🔍 RCA | базовый Root Cause Analysis |
+| 🌍 Networking | DNS, ports, routes, TCP/IP |
+
+<div align="center">
+
+### 🔗 [OPEN SUPPORT ENGINEER LAB](https://github.com/ssskiarrr/support-engineer-lab)
+
+</div>
+
+---
+
+### 🎫 ОПОРА — HelpDesk
+
+> Локальное HelpDesk-приложение для практики полного жизненного цикла пользовательских обращений.
+
+**Что реализовано:**
+
+- создание и ведение заявок;
+- статусы, категории и приоритеты;
+- назначение ответственного;
+- комментарии и фиксация решения;
+- поиск и фильтрация очереди;
+- REST API;
+- SQLite;
+- HTTP diagnostics;
+- история изменений;
+- базовые service health checks;
+- SQL-запросы для анализа обращений.
+
+<div align="center">
+
+![AI Assisted](https://img.shields.io/badge/Development-AI_ASSISTED-6E40C9?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-DATABASE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-111111?style=for-the-badge)
+![HelpDesk](https://img.shields.io/badge/HELPDESK-SUPPORT-238636?style=for-the-badge)
+
+### 🔗 [OPEN ОПОРА HELPDESK](https://github.com/ssskiarrr/helpdesk-opora)
+
+</div>
+
+> **AI-assisted development:** AI использовался как инструмент при проектировании, разработке и улучшении части кода. Функциональность и сценарии проекта использовались как учебная практика.
