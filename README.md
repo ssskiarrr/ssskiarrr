@@ -1,193 +1,115 @@
 <div align="center">
 
-# 👋 Hi, I'm ssskiarrr
+# 👨‍💻 ssskiarrr
 
 ### Trainee Support Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+SQL+%E2%80%A2+HTTP+%E2%80%A2+REST+API;Logs+%E2%80%A2+Monitoring+%E2%80%A2+Troubleshooting;Learning+Support+Engineering+%26+SRE" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&center=true&vCenter=true&width=720&lines=Linux+%E2%80%A2+SQL+%E2%80%A2+HTTP+%E2%80%A2+REST+API;Troubleshooting+%E2%80%A2+Logs+%E2%80%A2+Monitoring;Building+skills+for+Support+Engineering+%26+SRE"
+/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/FOCUS-SUPPORT_ENGINEERING-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-238636?style=for-the-badge" />
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-238636?style=for-the-badge)
+![Role](https://img.shields.io/badge/ROLE-SUPPORT_ENGINEER-111111?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-RELIABILITY-111111?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## `$ whoami`
 
-Начинающий **Support Engineer**, развиваюсь в направлении поддержки и эксплуатации веб-сервисов.
+Начинающий **Support Engineer**, ориентированный на диагностику и поддержку веб-сервисов.
 
-Практикую **Linux**, **SQL**, анализ логов, **HTTP / REST API troubleshooting**, сетевую диагностику и работу с инцидентами.
+Работаю и практикуюсь с **Linux, SQL, логами, HTTP / REST API, сетями и troubleshooting**.
 
-Изучаю monitoring, Docker, CI/CD и SRE-практики.
+Учусь подходить к проблемам как инженер:
 
-> 🎯 Цель: **Trainee / Junior Support Engineer → Application Support → SRE**
+`симптом → данные → логи → метрики → локализация → решение / эскалация`
+
+> 🎯 Сейчас ищу стажировку / Trainee-позицию в Support Engineering.
 
 ---
 
-## 🧰 Core stack
+## ⚙️ Core Stack
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-CLI-111111?style=for-the-badge&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-111111?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-111111?style=for-the-badge&logo=git&logoColor=white)
-
-![HTTP](https://img.shields.io/badge/HTTP-REST_API-111111?style=for-the-badge)
-![Networking](https://img.shields.io/badge/TCP%2FIP-Networking-111111?style=for-the-badge)
-![Logs](https://img.shields.io/badge/Logs-Analysis-111111?style=for-the-badge)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incidents-111111?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-111111?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠 What I work with
+## 🧩 Support Engineering
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🧯 Support
+<td width="33%" valign="top">
 
-- Troubleshooting
-- Log Analysis
-- Incident Management
+### 🔍 Troubleshooting
+
+- Problem isolation
+- Log analysis
+- HTTP errors
+- API diagnostics
+- Network checks
 - Root Cause Analysis
-- Alert Handling
-- Technical Escalation
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🐧 Linux & Networking
+### 🐧 Linux
 
-- Linux CLI
-- Bash
+- CLI
+- Processes
+- Files
+- `grep`
+- `curl`
+- `journalctl`
+- `ps`, `top`
+- `ss`, `ip`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Networking
+
 - TCP/IP
 - DNS
 - DHCP
-- NAT / ARP
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web & API
-
-- HTTP / HTTPS
-- REST API
-- HTTP Status Codes
-- Client-Server Architecture
-- curl
+- NAT
+- ARP
+- IPv4 / IPv6
+- Ports
+- Client-server model
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🗄 Data
-
-- SQL / SQLite
-- JOIN / GROUP BY
-- CTE / Subqueries
-- Window Functions
-- Data checks
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Featured project
+## 🗄️ Data & SQL
 
-### 🛠 Support Engineer Lab
+Работаю с **SQLite** и практикую SQL для анализа и диагностики данных.
 
-Учебный проект, имитирующий базовые задачи Support Engineer.
-
-| Area | Practice |
-|---|---|
-| 📄 Logs | `ERROR`, `WARN`, `5xx`, `timeout`, `request_id` |
-| 🌐 HTTP / API | диагностика HTTP-кодов и REST API |
-| 🐧 Linux | CLI, процессы, сеть, базовая диагностика |
-| 🧰 Bash | log analyzer и service health check |
-| 🗄 SQL | запросы для проверки и диагностики данных |
-| 📊 Monitoring | Warning / Critical alerts для Prometheus |
-| 🚨 Incidents | Incident Runbook и RCA workflow |
-
-<div align="center">
-
-### 🔗 [OPEN SUPPORT ENGINEER LAB](https://github.com/ssskiarrr/support-engineer-lab)
-
-</div>
-
----
-
-## 📚 Learning & Practice
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Learning-555555?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Practicing-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-![Grafana](https://img.shields.io/badge/Grafana-Practicing-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SRE](https://img.shields.io/badge/SRE-Learning-111111?style=for-the-badge)
-
-</div>
-
----
-
-## 🧭 Career direction
-
-<div align="center">
-
-**Trainee Support Engineer**
-
-↓
-
-**Junior Support Engineer**
-
-↓
-
-**Application Support**
-
-↓
-
-**SRE / Reliability Engineering**
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Activity
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-### Linux • SQL • Logs • HTTP • Monitoring • Troubleshooting
-
-</div>
+```sql
+select
+    customer_id,
+    count(*) as operations_count
+from operations
+group by customer_id
+having count(*) > 5;
