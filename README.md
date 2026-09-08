@@ -126,10 +126,18 @@
 
 ## 📚 Currently learning
 
-```text
-Docker        ██████░░░░  learning
-CI/CD         █████░░░░░  learning
-Prometheus    ███████░░░  practicing
-Grafana       ██████░░░░  practicing
-Python        ████░░░░░░  learning
-SRE           █████░░░░░  learning
+<p align="left">
+
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-555555?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Prometheus-Practicing-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Grafana-Practicing-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SRE-Learning-111111?style=for-the-badge" />
+
+</p>
