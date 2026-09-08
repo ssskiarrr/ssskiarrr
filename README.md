@@ -141,6 +141,8 @@ from operations
 group by customer_id
 having count(*) > 5;
 
+```
+---
 ## 🚀 Projects
 
 ### 🛠 Support Engineer Lab
