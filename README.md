@@ -1,19 +1,66 @@
-# Hi, I'm ssskiarrr 👋
+<div align="center">
+
+# 👋 Hi, I'm ssskiarrr
 
 ### Trainee Support Engineer
 
-Начинающий Support Engineer. Практикуюсь в диагностике инцидентов, Linux, SQL, HTTP/REST API, логах, мониторинге и сетях.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Linux+%7C+SQL+%7C+HTTP+%7C+REST+API;Logs+%7C+Monitoring+%7C+Troubleshooting;Learning+Support+Engineering+%26+SRE" />
 
-## 🛠 Tech Stack
+<br>
 
-### Support & Troubleshooting
+![Linux](https://img.shields.io/badge/Linux-CLI-111111?style=for-the-badge&logo=linux&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-111111?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-111111?style=for-the-badge&logo=git&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-111111?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-111111?style=for-the-badge&logo=grafana&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-REST_API-111111?style=for-the-badge)
+![Networking](https://img.shields.io/badge/TCP%2FIP-Networking-111111?style=for-the-badge)
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+Начинающий **Support Engineer**, развиваюсь в направлении поддержки и эксплуатации веб-сервисов.
+
+Практикую:
+
+- 🐧 Linux CLI и диагностику системы
+- 📄 анализ логов и поиск ошибок
+- 🌐 HTTP / REST API troubleshooting
+- 🗄️ SQL и анализ данных
+- 📊 мониторинг и alerting
+- 🌍 TCP/IP, DNS, DHCP, NAT, ARP
+- 🚨 работу с инцидентами и Root Cause Analysis
+
+Моя цель — начать карьеру как **Trainee / Junior Support Engineer** и постепенно развиваться в сторону **Application Support / SRE**.
+
+---
+
+## 🛠 Technical stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Support
+
 - Troubleshooting
-- Log analysis
-- Incident management
+- Log Analysis
+- Incident Management
 - Root Cause Analysis
-- Alert handling
+- Alert Handling
+- Technical Escalation
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Linux & Networking
+
 - Linux CLI
 - Bash
 - TCP/IP
@@ -22,78 +69,67 @@
 - NAT
 - ARP
 
-### Web
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Web & API
+
 - HTTP / HTTPS
 - REST API
-- Client-server architecture
+- HTTP Status Codes
+- Client-Server Architecture
 - curl
 
-### Databases
-- SQL
-- SQLite
-- JOIN
-- GROUP BY
-- CTE
-- Subqueries
-- Window Functions
+</td>
 
-### Monitoring
+<td width="50%" valign="top">
+
+### Data & Monitoring
+
+- SQL / SQLite
+- JOIN / GROUP BY
+- CTE / Subqueries
+- Window Functions
 - Prometheus
 - Grafana
-- Alerting
 
-### Tools
-- Git
-- GitHub
-- Bash
+</td>
+</tr>
+</table>
 
-## 🚀 Projects
+---
 
-### Support Engineer Lab
+## 🚀 Featured project
 
-Учебный проект для практики задач Support Engineer:
+### 🛠 Support Engineer Lab
 
-- анализ логов;
-- HTTP/API troubleshooting;
-- Linux troubleshooting;
-- network troubleshooting;
-- Bash scripts;
-- SQL;
-- Prometheus alerts;
-- incident runbook;
-- базовый root cause analysis.
+Практический учебный проект, имитирующий базовые задачи Support Engineer.
 
-👉 [Support Engineer Lab](https://github.com/ssskiarrr/support-engineer-lab)
+**В проекте:**
+
+- анализ application logs;
+- поиск `ERROR`, `WARN`, `5xx`, `timeout`;
+- HTTP / REST API troubleshooting;
+- Linux и network troubleshooting;
+- Bash scripts для проверки сервисов;
+- SQL-запросы для диагностики данных;
+- Prometheus Warning / Critical alerts;
+- Incident Runbook;
+- Root Cause Analysis workflow.
+
+### 🔗 [Open Support Engineer Lab](https://github.com/ssskiarrr/support-engineer-lab)
+
+---
 
 ## 📚 Currently learning
 
-- Docker
-- CI/CD
-- Prometheus & Grafana
-- SRE basics
-- Python
-
-## 🎯 Career goal
-
-Ищу стажировку / позицию **Trainee Support Engineer / Junior Support Engineer**.
-
-Хочу развиваться в направлении:
-
-**Application Support → Support Engineering → SRE**
-
-<h2 align="center">🐍 Contribution activity</h2>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+```text
+Docker        ██████░░░░  learning
+CI/CD         █████░░░░░  learning
+Prometheus    ███████░░░  practicing
+Grafana       ██████░░░░  practicing
+Python        ████░░░░░░  learning
+SRE           █████░░░░░  learning
