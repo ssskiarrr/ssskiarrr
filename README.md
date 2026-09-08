@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm ssskiarrr 👋
 
-<!--
-**ssskiarrr/ssskiarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Trainee Support Engineer
 
-Here are some ideas to get you started:
+Начинающий Support Engineer. Практикуюсь в диагностике инцидентов, Linux, SQL, HTTP/REST API, логах, мониторинге и сетях.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Support & Troubleshooting
+- Troubleshooting
+- Log analysis
+- Incident management
+- Root Cause Analysis
+- Alert handling
+
+### Linux & Networking
+- Linux CLI
+- Bash
+- TCP/IP
+- DNS
+- DHCP
+- NAT
+- ARP
+
+### Web
+- HTTP / HTTPS
+- REST API
+- Client-server architecture
+- curl
+
+### Databases
+- SQL
+- SQLite
+- JOIN
+- GROUP BY
+- CTE
+- Subqueries
+- Window Functions
+
+### Monitoring
+- Prometheus
+- Grafana
+- Alerting
+
+### Tools
+- Git
+- GitHub
+- Bash
+
+## 🚀 Projects
+
+### Support Engineer Lab
+
+Учебный проект для практики задач Support Engineer:
+
+- анализ логов;
+- HTTP/API troubleshooting;
+- Linux troubleshooting;
+- network troubleshooting;
+- Bash scripts;
+- SQL;
+- Prometheus alerts;
+- incident runbook;
+- базовый root cause analysis.
+
+👉 [Support Engineer Lab](https://github.com/ssskiarrr/support-engineer-lab)
+
+## 📚 Currently learning
+
+- Docker
+- CI/CD
+- Prometheus & Grafana
+- SRE basics
+- Python
+
+## 🎯 Career goal
+
+Ищу стажировку / позицию **Trainee Support Engineer / Junior Support Engineer**.
+
+Хочу развиваться в направлении:
+
+**Application Support → Support Engineering → SRE**
