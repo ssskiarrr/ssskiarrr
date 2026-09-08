@@ -80,3 +80,20 @@
 Хочу развиваться в направлении:
 
 **Application Support → Support Engineering → SRE**
+
+<h2 align="center">🐍 Contribution activity</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/ssskiarrr/ssskiarrr/output/github-contribution-grid-snake.svg"
+  />
+</picture>
