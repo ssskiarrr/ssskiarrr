@@ -40,7 +40,7 @@
 
 ### 📈 Monitoring & Observability
 
-** Grafana • Metrics • Alerting • Logs • Health Checks • Monitoring • Observability**
+** Grafana • Metrics • Alerting • Logs • Health Checks • Monitoring • Observability **
 
 ---
 
