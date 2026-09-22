@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 Об аккаунте
+## Об аккаунте
 
 Это мой **учебный GitHub-профиль**.
 
@@ -24,45 +24,32 @@
 
 ---
 
-## 🧰 Стек, который изучаю
+## Стек, который изучаю
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 **Excel • SQL • Power BI • Power Query • DAX • Data Analysis • Data Visualization • KPI • Dashboards**
 
-### 🐍 Programming & Automation
+### Programming & Automation
 
 **Python • Automation • Git • GitHub**
 
-### 🐧 Technical Fundamentals
+### Technical Fundamentals
 
 **Linux • HTTP • REST API • Client-Server • Networking • Logs • Troubleshooting**
 
-### 📈 Monitoring & Observability
+### Monitoring & Observability
 
 **Grafana • Metrics • Alerting • Logs • Health Checks • Monitoring • Observability**
 
 ---
 
-## 🧪 Практика
+## Практика
 
 В репозиториях ниже находятся мои учебные проекты и практические работы по мере изучения технологий.
 
 Там можно посмотреть, с чем я работал и что пробовал делать на практике.
 
 ---
-
-## 📚 Сейчас изучаю
-
-- Excel и работу с данными
-- SQL
-- Python
-- Power BI, Power Query и DAX
-- аналитику и визуализацию данных
-- автоматизацию
-- Linux
-- HTTP и REST API
-- Prometheus и Grafana
-- мониторинг, метрики, алерты и логи
 
 > Профиль используется как учебное пространство для развития IT-навыков.
