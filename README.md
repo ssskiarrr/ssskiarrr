@@ -20,7 +20,7 @@
 
 Основной фокус:
 
-**данные • аналитика • автоматизация • техническая база • monitoring & observability**
+**данные • аналитика • автоматизация • техническая база • monitoring**
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### 📈 Monitoring & Observability
 
-**Prometheus • Grafana • Metrics • Alerting • Logs • Health Checks • Monitoring • Observability**
+** Grafana • Metrics • Alerting • Logs • Health Checks • Monitoring • Observability**
 
 ---
 
@@ -64,6 +64,5 @@
 - HTTP и REST API
 - Prometheus и Grafana
 - мониторинг, метрики, алерты и логи
-- основы observability и диагностики сервисов
 
 > Профиль используется как учебное пространство для развития IT-навыков.
