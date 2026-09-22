@@ -2,7 +2,7 @@
 
 # ssskiarrr
 
-### Учебный IT-профиль
+### Учебка
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&center=true&vCenter=true&width=820&lines=Excel+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Linux+%E2%80%A2+HTTP+%E2%80%A2+REST+API;Prometheus+%E2%80%A2+Grafana+%E2%80%A2+Monitoring;Learning+by+building+projects"
@@ -14,11 +14,11 @@
 
 ## Об аккаунте
 
-Это мой **учебный GitHub-профиль**.
+Это мой **GitHub-профиль**.
 
-Здесь я изучаю разные направления IT, закрепляю навыки на практике и постепенно собираю собственные учебные проекты.
+Здесь я изучаю направления IT, закрепляю навыки на практике и собираю собственные пет-проекты.
 
-Основной фокус:
+Фокус:
 
 **данные • аналитика • автоматизация • техническая база • monitoring**
 
